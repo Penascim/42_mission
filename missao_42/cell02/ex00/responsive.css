@@ -1,0 +1,17 @@
+*
+{
+  margin: 0;
+  border: 0;
+}
+table
+{
+  width: 100%; height: 100vh;
+}
+#tab1
+{
+  background-color: #00a2ff;
+}
+#tab2
+{
+  background-color: #ff05c1;
+}
